@@ -1,0 +1,60 @@
+*{
+  background-color: #f5f5f5;
+}
+body {
+  margin: 0;
+}
+.logo{
+  padding-left: 7px;
+  margin-top: -8px;
+  letter-spacing: 1.2px;
+  font-family: 'Signika';
+  font-weight: 200;
+  font-size: 20px;
+  color: #662e66;
+}
+.header {
+  text-align: center;
+  padding-top: 48px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+.sign-up {
+  text-align: center;
+  margin: auto;
+  border-radius: 7px;
+  background-color: inherit;
+  border: #d23d80 2px solid;
+  padding: 5px 32px 5px 32px;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 1.2px;
+  font-family: 'Signika';
+  font-weight: bolder;
+  font-size: 21px;
+  color: #662e66;
+  transition: 0.5s;
+}
+.sign-up1:hover {
+  transition: 0.5s;
+  /*-webkit-transition-duration: 0.5s; */
+  background-color: #d23d80;
+  color: white;
+}
+.button {
+  text-align: center;
+  margin: auto;
+}
+.image {
+  padding-top: 70px;
+  width: 100%;
+  height: 85%;
+  object-fit: fill;
+  background-image:
+}
+.image::after{
+  display: block;
+  position: relative;
+  background: linear-gradient(#004092, #020202, transparent), url("../images/garageband.jpg")
+}
