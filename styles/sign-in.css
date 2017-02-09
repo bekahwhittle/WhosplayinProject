@@ -1,3 +1,15 @@
-body {
+
+.img-container {
   background-image: url('../images/leadsinger.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.logo {
+  padding-left: 13px;
+  margin-top: -8px;
+  letter-spacing: 1.2px;
+  font-family: 'Signika';
+  font-weight: 200;
+  font-size: 20px;
+  color: #662e66;
 }
