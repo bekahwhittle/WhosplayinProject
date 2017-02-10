@@ -20,9 +20,12 @@ html {
   border-radius: 4px;
   margin: 100px 150px 50px 197px;
 }
-.line {
-  height: 400px;
-  width: 2px;
-  border-radius: 2px;
-  background-color: #FFFFFF;
+.sign-in-hero {
+
+}
+.sign-in {
+  font-family: 'Signika', sans-serif;
+  font-weight: lighter;
+  font-size: 40px;
+  color: #FFFFFF;
 }
