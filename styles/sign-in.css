@@ -15,17 +15,19 @@ html {
   height: 470px;
   width: 800px;
   box-sizing: content-box;
-  background: linear-gradient(to left, #e96443 , #904e95);
+  background: linear-gradient(to right, #d23d80 , #904e95);
   opacity: .82;
   border-radius: 4px;
   margin: 100px 150px 50px 197px;
 }
 .sign-in-hero {
-
+  margin-left: -30px;
 }
 .sign-in {
-  font-family: 'Signika', sans-serif;
-  font-weight: lighter;
-  font-size: 40px;
+
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 35px;
+  letter-spacing: .8px;
   color: #FFFFFF;
 }
