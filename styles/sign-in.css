@@ -10,9 +10,19 @@ html {
   font-size: 20px;
   color: #FFFFFF;
 }
-.gradient-container {
-  margin: auto;
-  height: 300px;
-  width: 300px;
-  color: #FF0000;
+.box {
+  padding-left: 60px;
+  height: 470px;
+  width: 800px;
+  box-sizing: content-box;
+  background: linear-gradient(to left, #e96443 , #904e95);
+  opacity: .82;
+  border-radius: 4px;
+  margin: 100px 150px 50px 197px;
+}
+.line {
+  height: 400px;
+  width: 2px;
+  border-radius: 2px;
+  background-color: #FFFFFF;
 }
